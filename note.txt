@@ -1,0 +1,4 @@
+use Base python 2.0
+
+use in requirements.txt
+sagemaker == 2.156.0
